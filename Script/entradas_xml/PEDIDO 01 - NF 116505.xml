@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recebimento xmlns="http://www.dfpc.eb.mil.br" versao="1.0" dataExportacao="2024-08-13T11:46:46" cnpjDeVendedor="78391612000140" orderDeVendedor="8100893313" numeroNotaFiscal="000116505" serieNotaFiscal="1" guiaDeTrafego="20240000194906" cnpjDeComprador="07048188000197">
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="840" nome="BRITACORD NP 40 BR" codigoR105="001270" pesoLiquido="10.050" pesoNec="40.000" pesoBruto="10.650" comprimento="150">
+		<tipoDeEmbalagem>
+			<embalagem nivel="2" tipoEmbalagem="4" quantidadeDeSubniveis="1"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="478904520084001000411070" lote="24331431" produzido="2024-08-11T06:10:37">
+				<item iis="078904520084001000420728" produzido="2024-08-11T06:17:21"/>
+			</item>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="1341" nome="IBEGEL 1.1/2&quot; X 24&quot; BR" codigoR105="310150" pesoLiquido="25.000" pesoNec="797.300" pesoBruto="26.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="2" tipoEmbalagem="4" quantidadeDeSubniveis="31"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="478904520134101003560391" lote="24320041" produzido="2024-08-06T11:18:05">
+				<item iis="078904520134101110371796" produzido="2024-08-06T11:18:09"/>
+				<item iis="078904520134101110371800" produzido="2024-08-06T11:18:10"/>
+				<item iis="078904520134101110371818" produzido="2024-08-06T11:18:11"/>
+				<item iis="078904520134101110371826" produzido="2024-08-06T11:18:12"/>
+				<item iis="078904520134101110371834" produzido="2024-08-06T11:18:12"/>
+				<item iis="078904520134101110371842" produzido="2024-08-06T11:18:13"/>
+				<item iis="078904520134101110371851" produzido="2024-08-06T11:18:14"/>
+				<item iis="078904520134101110371869" produzido="2024-08-06T11:18:15"/>
+				<item iis="078904520134101110371877" produzido="2024-08-06T11:18:15"/>
+				<item iis="078904520134101110371885" produzido="2024-08-06T11:18:16"/>
+				<item iis="078904520134101110371893" produzido="2024-08-06T11:18:17"/>
+				<item iis="078904520134101110371907" produzido="2024-08-06T11:18:18"/>
+				<item iis="078904520134101110371915" produzido="2024-08-06T11:18:18"/>
+				<item iis="078904520134101110371923" produzido="2024-08-06T11:18:19"/>
+				<item iis="078904520134101110371931" produzido="2024-08-06T11:18:21"/>
+				<item iis="078904520134101110371940" produzido="2024-08-06T11:18:22"/>
+				<item iis="078904520134101110371958" produzido="2024-08-06T11:18:22"/>
+				<item iis="078904520134101110371966" produzido="2024-08-06T11:18:23"/>
+				<item iis="078904520134101110371974" produzido="2024-08-06T11:18:24"/>
+				<item iis="078904520134101110371982" produzido="2024-08-06T11:18:25"/>
+				<item iis="078904520134101110371991" produzido="2024-08-06T11:18:26"/>
+				<item iis="078904520134101110372008" produzido="2024-08-06T11:18:27"/>
+				<item iis="078904520134101110372016" produzido="2024-08-06T11:18:27"/>
+				<item iis="078904520134101110372024" produzido="2024-08-06T11:18:28"/>
+				<item iis="078904520134101110372032" produzido="2024-08-06T11:18:29"/>
+				<item iis="078904520134101110372041" produzido="2024-08-06T11:18:30"/>
+				<item iis="078904520134101110372059" produzido="2024-08-06T11:18:31"/>
+				<item iis="078904520134101110372067" produzido="2024-08-06T11:18:32"/>
+				<item iis="078904520134101110372075" produzido="2024-08-06T11:18:33"/>
+				<item iis="078904520134101110372083" produzido="2024-08-06T11:18:34"/>
+				<item iis="078904520134101110372091" produzido="2024-08-06T11:18:34"/>
+			</item>
+			<item iis="478904520134101003560413" lote="24320041" produzido="2024-08-06T11:20:30">
+				<item iis="078904520134101110372415" produzido="2024-08-06T11:20:38"/>
+				<item iis="078904520134101110372423" produzido="2024-08-06T11:20:38"/>
+				<item iis="078904520134101110372431" produzido="2024-08-06T11:20:39"/>
+				<item iis="078904520134101110372440" produzido="2024-08-06T11:20:40"/>
+				<item iis="078904520134101110372458" produzido="2024-08-06T11:20:41"/>
+				<item iis="078904520134101110372466" produzido="2024-08-06T11:20:42"/>
+				<item iis="078904520134101110372474" produzido="2024-08-06T11:20:43"/>
+				<item iis="078904520134101110372482" produzido="2024-08-06T11:20:43"/>
+				<item iis="078904520134101110372491" produzido="2024-08-06T11:20:44"/>
+				<item iis="078904520134101110372504" produzido="2024-08-06T11:20:45"/>
+				<item iis="078904520134101110372512" produzido="2024-08-06T11:20:46"/>
+				<item iis="078904520134101110372521" produzido="2024-08-06T11:20:47"/>
+				<item iis="078904520134101110372539" produzido="2024-08-06T11:20:47"/>
+				<item iis="078904520134101110372547" produzido="2024-08-06T11:20:48"/>
+				<item iis="078904520134101110372555" produzido="2024-08-06T11:20:49"/>
+				<item iis="078904520134101110372563" produzido="2024-08-06T11:20:50"/>
+				<item iis="078904520134101110372571" produzido="2024-08-06T11:20:51"/>
+				<item iis="078904520134101110372580" produzido="2024-08-06T11:20:52"/>
+				<item iis="078904520134101110372598" produzido="2024-08-06T11:20:52"/>
+				<item iis="078904520134101110372601" produzido="2024-08-06T11:20:53"/>
+				<item iis="078904520134101110372610" produzido="2024-08-06T11:20:54"/>
+				<item iis="078904520134101110372628" produzido="2024-08-06T11:20:55"/>
+				<item iis="078904520134101110372636" produzido="2024-08-06T11:20:56"/>
+				<item iis="078904520134101110372644" produzido="2024-08-06T11:20:57"/>
+				<item iis="078904520134101110372652" produzido="2024-08-06T11:20:57"/>
+				<item iis="078904520134101110372661" produzido="2024-08-06T11:20:58"/>
+				<item iis="078904520134101110372679" produzido="2024-08-06T11:20:59"/>
+				<item iis="078904520134101110372687" produzido="2024-08-06T11:21:00"/>
+				<item iis="078904520134101110372695" produzido="2024-08-06T11:21:01"/>
+				<item iis="078904520134101110372709" produzido="2024-08-06T11:21:01"/>
+				<item iis="078904520134101110372717" produzido="2024-08-06T11:21:02"/>
+			</item>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="286" nome="BRINEL 4,8M N.05 125 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520028601001138395" lote="24200274" produzido="2024-05-15T03:00:34"/>
+			<item iis="078904520028601001138409" lote="24200274" produzido="2024-05-15T03:00:34"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="291" nome="BRINEL 4,8M N.10 250 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520029101005065426" lote="24270031" produzido="2024-07-02T15:19:11"/>
+			<item iis="078904520029101005065434" lote="24270031" produzido="2024-07-02T15:19:11"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="294" nome="BRINEL 4,8M N.14 350 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520029401001313386" lote="24320071" produzido="2024-08-07T10:50:43"/>
+			<item iis="078904520029401001312631" lote="24320071" produzido="2024-08-07T10:58:45"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="303" nome="BRINEL 4,8M N.50 1250 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520030301002100326" lote="24250449" produzido="2024-06-17T08:31:00"/>
+			<item iis="078904520030301002100334" lote="24250449" produzido="2024-06-17T08:31:00"/>
+			<item iis="078904520030301002100415" lote="24250449" produzido="2024-06-17T08:31:00"/>
+			<item iis="078904520030301002100377" lote="24250449" produzido="2024-06-17T08:31:00"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="687" nome="BRINEL 4,8M N.01 25 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520068701001735746" lote="24260679" produzido="2024-06-24T11:02:28"/>
+			<item iis="078904520068701001735819" lote="24260679" produzido="2024-06-24T11:02:28"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="297" nome="BRINEL 4,8M N.20 500 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520029701001954364" lote="24280366" produzido="2024-07-15T00:46:03"/>
+			<item iis="078904520029701001954623" lote="24280366" produzido="2024-07-15T00:47:58"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="298" nome="BRINEL 4,8M N.24 600 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520029801002722251" lote="24290507" produzido="2024-07-20T01:13:25"/>
+			<item iis="078904520029801002722331" lote="24290507" produzido="2024-07-20T01:13:25"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="301" nome="BRINEL 4,8M N.34 850 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520030101001779934" lote="24320090" produzido="2024-08-08T02:27:26"/>
+			<item iis="078904520030101001779926" lote="24320090" produzido="2024-08-08T02:27:26"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="302" nome="BRINEL 4,8M N.40 1000 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.180">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520030201004521748" lote="24260781" produzido="2024-06-28T09:33:50"/>
+			<item iis="078904520030201004521691" lote="24260781" produzido="2024-06-28T09:33:50"/>
+			<item iis="078904520030201004521713" lote="24260781" produzido="2024-06-28T09:33:50"/>
+			<item iis="078904520030201004521632" lote="24260781" produzido="2024-06-28T09:33:50"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="304" nome="BRINEL 4,8M N.60 1500 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520030401002656843" lote="24310801" produzido="2024-07-30T21:41:12"/>
+			<item iis="078904520030401002656851" lote="24310801" produzido="2024-07-30T21:41:12"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="306" nome="BRINEL 4,8M N.80 2000 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520030601002374913" lote="24250488" produzido="2024-06-18T11:13:56"/>
+			<item iis="078904520030601002374930" lote="24250488" produzido="2024-06-18T11:13:56"/>
+			<item iis="078904520030601002374948" lote="24250488" produzido="2024-06-18T11:13:56"/>
+			<item iis="078904520030601002375014" lote="24250488" produzido="2024-06-18T11:13:56"/>
+			<item iis="078904520030601002374981" lote="24250488" produzido="2024-06-18T11:13:56"/>
+			<item iis="078904520030601002374972" lote="24250488" produzido="2024-06-18T11:13:56"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="307" nome="BRINEL 4,8M N.100 2500MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520030701002443857" lote="23431064" produzido="2023-10-30T04:10:49"/>
+			<item iis="078904520030701002443849" lote="23431064" produzido="2023-10-30T04:10:49"/>
+			<item iis="078904520030701002443946" lote="23431064" produzido="2023-10-30T04:10:49"/>
+			<item iis="078904520030701002443831" lote="23431064" produzido="2023-10-30T04:10:49"/>
+			<item iis="078904520030701002443881" lote="23431064" produzido="2023-10-30T04:10:49"/>
+			<item iis="078904520030701002443865" lote="23431064" produzido="2023-10-30T04:10:49"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="309" nome="BRINEL 4,8M N.140 3500MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="578904520030901000236109" lote="24310910" produzido="2024-08-01T20:16:51">
+				<item iis="078904520030901002483631"/>
+				<item iis="078904520030901002483584"/>
+				<item iis="078904520030901002483649"/>
+				<item iis="078904520030901002483606"/>
+				<item iis="078904520030901002483673"/>
+				<item iis="078904520030901002483657"/>
+				<item iis="078904520030901002483681"/>
+				<item iis="078904520030901002483622"/>
+				<item iis="078904520030901002483614"/>
+				<item iis="078904520030901002483576"/>
+			</item>
+			<item iis="578904520030901000236125" lote="24310910" produzido="2024-08-01T20:18:29">
+				<item iis="078904520030901002483894"/>
+				<item iis="078904520030901002483860"/>
+				<item iis="078904520030901002483827" produzido="2024-08-01T20:18:30"/>
+				<item iis="078904520030901002483789" produzido="2024-08-01T20:18:30"/>
+				<item iis="078904520030901002483835" produzido="2024-08-01T20:18:30"/>
+				<item iis="078904520030901002483819" produzido="2024-08-01T20:18:30"/>
+				<item iis="078904520030901002483797" produzido="2024-08-01T20:18:30"/>
+				<item iis="078904520030901002483801" produzido="2024-08-01T20:18:30"/>
+				<item iis="078904520030901002483843" produzido="2024-08-01T20:18:30"/>
+				<item iis="078904520030901002483851" produzido="2024-08-01T20:18:30"/>
+			</item>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="299" nome="BRINEL 4,8M N.28 700 MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520029901001902839" lote="24190207" produzido="2024-05-12T21:01:07"/>
+			<item iis="078904520029901001902880" lote="24190207" produzido="2024-05-12T21:01:08"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="308" nome="BRINEL 4,8M N.120 3000MS BR" codigoR105="0030" pesoLiquido="4.200" pesoNec="1.050" pesoBruto="5.500">
+		<tipoDeEmbalagem>
+			<embalagem nivel="3" tipoEmbalagem="4" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="2" tipoEmbalagem="5" quantidadeDeSubniveis="10"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520030801002751680" lote="24290464" produzido="2024-07-18T10:21:37"/>
+			<item iis="078904520030801002765451" lote="24300590" produzido="2024-07-22T19:49:15"/>
+			<item iis="078904520030801002777484" lote="24310967" produzido="2024-08-03T16:46:55"/>
+			<item iis="078904520030801002777492" lote="24310967" produzido="2024-08-03T16:46:55"/>
+			<item iis="078904520030801002777522" lote="24310967" produzido="2024-08-03T16:46:55"/>
+			<item iis="078904520030801002777514" lote="24310967" produzido="2024-08-03T16:46:55"/>
+			<item iis="578904520030801000268616" lote="24320129" produzido="2024-08-09T07:02:42">
+				<item iis="078904520030801002789563"/>
+				<item iis="078904520030801002789512"/>
+				<item iis="078904520030801002789521"/>
+				<item iis="078904520030801002789539"/>
+				<item iis="078904520030801002789555"/>
+				<item iis="078904520030801002789482"/>
+				<item iis="078904520030801002789547"/>
+				<item iis="078904520030801002789504"/>
+				<item iis="078904520030801002789491"/>
+				<item iis="078904520030801002789598"/>
+			</item>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="2509" nome="BRITACORD NP 05D BR" codigoR105="1270" pesoLiquido="10.400" pesoNec="5.000" pesoBruto="11.900" comprimento="750">
+		<tipoDeEmbalagem>
+			<embalagem nivel="2" tipoEmbalagem="4" quantidadeDeSubniveis="2"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904520250901000137553" lote="24326181" produzido="2024-08-09T15:12:23"/>
+		</itens>
+	</produto>
+	<produto codigoPais="789" codigoProdutor="452" codigoProduto="10116" nome="BRINEL INI. EA 300M 0MS BR" codigoR105="0030" pesoLiquido="7.200" pesoNec="0.800" pesoBruto="10.400">
+		<tipoDeEmbalagem>
+			<embalagem nivel="2" tipoEmbalagem="4" quantidadeDeSubniveis="4"/>
+			<embalagem nivel="1" tipoEmbalagem="0"/>
+		</tipoDeEmbalagem>
+		<itens>
+			<item iis="078904521011601000078411" lote="24240298" produzido="2024-06-13T03:58:20"/>
+			<item iis="078904521011601000078283" lote="24240298" produzido="2024-06-13T03:58:21"/>
+			<item iis="078904521011601000078691" lote="24240298" produzido="2024-06-13T03:58:21"/>
+		</itens>
+	</produto>
+</recebimento>
